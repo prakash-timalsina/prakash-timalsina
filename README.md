@@ -43,10 +43,27 @@ Crafting clean code & beautiful interfaces ⚡
 
 <h3>📊 GitHub Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashtimalsina&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakash11645-sudo&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prakashtimalsina&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prakash11645-sudo&theme=tokyonight&hide_border=false" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash11645-sudo&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<h3>🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prakash11645-sudo&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+<h3>🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prakash11645-sudo/Prakash11645-sudo/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
