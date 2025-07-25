@@ -52,9 +52,7 @@ Crafting clean code & beautiful interfaces ⚡
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Prakash11645-sudo&theme=tokyonight&hide_border=false" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash11645-sudo&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
