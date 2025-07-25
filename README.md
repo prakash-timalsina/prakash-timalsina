@@ -1,29 +1,46 @@
-# Welcome to My GitHub Profile! 👋
+<h1 align="center">Hi there, I'm Prakash Timalsina! 👋</h1>
+<p align="center">
+Frontend Developer | UI/UX Designer | Lifelong Learner
+</p>
 
-Hi, I'm [Prakash ]! I'm a [your profession, e.g., Software Developer, Data Scientist, etc.] passionate about [your interests, e.g., building innovative applications, solving complex problems, etc.]. This is where I share my projects, experiments, and contributions to the open-source community.
+---
 
-## 🔧 Technologies & Tools
-- **Languages**: [e.g., Python, JavaScript, Java, etc.]
-- **Frameworks**: [e.g., React, Django, Spring, etc.]
-- **Tools**: [e.g., Git, Docker, VS Code, etc.]
-- **Cloud/DevOps**: [e.g., AWS, Azure, Kubernetes, etc.]
+<h3>🔗 Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/prakashtimalsinaa/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/prakashtimalsina_/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/tprakash0" target="_blank">
+    <img alt="X / Twitter" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
-## 🌟 Featured Projects
-- **[Project Name 1](https://github.com/yourusername/project1)**: [Brief description of the project, e.g., A web app for task management built with React and Node.js.]
-- **[Project Name 2](https://github.com/yourusername/project2)**: [Brief description, e.g., A machine learning model for predicting stock prices using Python and TensorFlow.]
-- **[Project Name 3](https://github.com/yourusername/project3)**: [Brief description, e.g., A CLI tool for automating deployments with Bash and Docker.]
+---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<h3>🛠️ Tools & Technologies:</h3>
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+</p>
 
-## 📫 Get in Touch
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **Twitter/X**: [@yourusername](https://x.com/yourusername)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+---
 
-## 💡 Fun Fact
-[Share something interesting about yourself, e.g., I once built a robot that serves coffee!]
+<h3>📈 GitHub Stats:</h3>
+<p>
+  <img alt="Prakash's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prakashtimalsina&show_icons=true&theme=tokyonight" />
+</p>
 
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech.
+---
+
+<h4 align="center">"Code | Contribute | Celebrate growth."</h4>
