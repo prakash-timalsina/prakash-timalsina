@@ -13,15 +13,17 @@ Crafting clean code & beautiful interfaces ⚡
 <h3>📬 Connect With Me</h3>
 <p>
   <a href="https://www.linkedin.com/in/prakashtimalsinaa/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="40" />
   </a>
   <a href="https://www.instagram.com/prakashtimalsina_/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="40" />
   </a>
   <a href="https://x.com/tprakash0" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/-?style=for-the-badge&logo=twitter&logoColor=white&color=000000" />
+    <img src="https://cdn.simpleicons.org/x/000000" alt="X" height="40" />
   </a>
 </p>
+
+
 
 
 ---
