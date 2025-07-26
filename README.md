@@ -13,35 +13,37 @@ Crafting clean code & beautiful interfaces ⚡
 <h3>📬 Connect With Me</h3>
 <p>
   <a href="https://www.linkedin.com/in/prakashtimalsinaa/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
   </a>
   <a href="https://www.instagram.com/prakashtimalsina_/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" />
   </a>
   <a href="https://x.com/tprakash0" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="X" src="https://img.shields.io/badge/-?style=for-the-badge&logo=twitter&logoColor=white&color=000000" />
   </a>
 </p>
+
 
 ---
 
 <h3>⚒️ Tech Stack & Tools I Use</h3>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=E34F26&color=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=1572B6&color=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=typescript&logoColor=3178C6&color=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=react&logoColor=61DAFB&color=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=next.js&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=redux&logoColor=764ABC&color=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=mongodb&logoColor=47A248&color=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&color=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=figma&logoColor=F24E1E&color=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=F05032&color=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&color=white"/>
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=fedora&logoColor=294172&color=white"/>
 </p>
+
 
 ---
 
