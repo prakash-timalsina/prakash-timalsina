@@ -38,7 +38,8 @@ Crafting clean code & beautiful interfaces ⚡
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="30" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" style="margin:6px"/>
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-logomark.5d1478a7.svg" alt="Tailwind CSS" width="30" style="margin:6px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" style="margin:6px;" />
+
 
 
 
