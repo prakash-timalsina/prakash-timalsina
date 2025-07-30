@@ -8,7 +8,6 @@ Crafting clean code & beautiful interfaces ⚡
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Design.+Code.+Create.;Always+Learning+New+Things.;Love+clean+UIs+%26+Dark+Themes." alt="Typing SVG" />
 </p>
 
----
 
 <h3>📬 Connect With Me</h3>
 <p>
@@ -25,7 +24,7 @@ Crafting clean code & beautiful interfaces ⚡
 
 
 
----
+
 
 <h3>⚒️ Tech Stack & Tools I Use</h3>
 <p>
@@ -38,7 +37,7 @@ Crafting clean code & beautiful interfaces ⚡
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="30" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" style="margin:6px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" style="margin:6px;" />
+<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" height="30" width="30" style="margin:6px;" />
 
 
 
@@ -53,17 +52,15 @@ Crafting clean code & beautiful interfaces ⚡
 
 
 
----
+
 
 <h3>📊 GitHub Stats</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Prakash11645-sudo&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prakash11645-sudo&theme=tokyonight&hide_border=false" />
-</p>
 
 
----
+
+
 
 <h4 align="center">✨ "I design with pixels, build with code, and dream in dark mode." ✨</h4>
