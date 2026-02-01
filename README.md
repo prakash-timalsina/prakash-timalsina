@@ -54,10 +54,7 @@ Crafting clean code & beautiful interfaces ⚡
 
 
 
-<h3>📊 GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakash11645-sudo&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
-</p>
+
 
 
 
